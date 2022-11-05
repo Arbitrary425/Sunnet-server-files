@@ -1,0 +1,15 @@
+server-ip= 192.168.0.11
+
+IPv4 Address: 192.168.0.12
+
+IPv4 Address:  192.168.0.13
+
+this is to join the server: 192.168.0.11
+
+Default Gateway: 192.168.0.1
+
+Adress: 192.168.0.20
+
+public ip: 72.140.181.62
+
+ 
